@@ -1,0 +1,56 @@
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\BookStoreManagement.exe.config
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\BookStoreManagement.exe
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\BookStoreManagement.pdb
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\BLL.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.Shared.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\DTO.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\EPPlus.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\EPPlus.Interfaces.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\EPPlus.System.Drawing.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\nunit.framework.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\DAL.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\stdole.dll
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\BLL.pdb
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\DTO.pdb
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\EPPlus.xml
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\nunit.framework.xml
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\DAL.pdb
+D:\BookStoreManagement\BookStoreManagement\bin\x86\Debug\DAL.dll.config
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement (GUI).csproj.AssemblyReference.cache
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement (GUI).csproj.SuggestedBindingRedirects.cache
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement (GUI).csproj.ResolveComReference.cache
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.bsmLogin.resources
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.FormHoaDon.resources
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.FormInBC.resources
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.FormMain.resources
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.FormPhieuNhap.resources
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.FormQLKhachHang.resources
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.FormQLNhanVien.resources
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.FormQLSanPham.resources
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.FormTacGia.resources
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.FormThemNXB.resources
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.FormThemTheLoai.resources
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.formTK.resources
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.Properties.Resources.resources
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement (GUI).csproj.GenerateResource.cache
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement (GUI).csproj.CoreCompileInputs.cache
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement (GUI).csproj.CopyComplete
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.exe
+D:\BookStoreManagement\BookStoreManagement\obj\x86\Debug\BookStoreManagement.pdb

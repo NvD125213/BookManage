@@ -1,0 +1,15 @@
+D:\BookStoreManagement\DTO\bin\x64\Debug\DTO.dll
+D:\BookStoreManagement\DTO\bin\x64\Debug\DTO.pdb
+D:\BookStoreManagement\DTO\bin\x64\Debug\EPPlus.dll
+D:\BookStoreManagement\DTO\bin\x64\Debug\EPPlus.Interfaces.dll
+D:\BookStoreManagement\DTO\bin\x64\Debug\EPPlus.System.Drawing.dll
+D:\BookStoreManagement\DTO\bin\x64\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BookStoreManagement\DTO\bin\x64\Debug\nunit.framework.dll
+D:\BookStoreManagement\DTO\bin\x64\Debug\EPPlus.xml
+D:\BookStoreManagement\DTO\bin\x64\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\BookStoreManagement\DTO\bin\x64\Debug\nunit.framework.xml
+D:\BookStoreManagement\DTO\obj\x64\Debug\DTO.csproj.AssemblyReference.cache
+D:\BookStoreManagement\DTO\obj\x64\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\BookStoreManagement\DTO\obj\x64\Debug\DTO.csproj.CopyComplete
+D:\BookStoreManagement\DTO\obj\x64\Debug\DTO.dll
+D:\BookStoreManagement\DTO\obj\x64\Debug\DTO.pdb
